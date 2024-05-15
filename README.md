@@ -8,6 +8,10 @@ W A S D  -  to move
 
 E  -  open shop, or use medkits
 
+R  -  reload
+
+1, 2, 3  -  switch between unlocked weapons
+
 F  -  toggle showing the hitboxes
 
 (mouse)  -  aim and shoot, interact with the shop
