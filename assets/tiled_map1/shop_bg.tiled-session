@@ -1,0 +1,47 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "shop_bg.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Alle Bestanden (*)",
+    "fileStates": {
+        "C:/Users/sathp/Documents/it/PWS/code/assets/topdown.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "map1.tmx": {
+            "scale": 0.4502604166666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 576.333140543667,
+                "y": 385.3325621746675
+            }
+        },
+        "shop_bg.tmx": {
+            "scale": 1.6209375,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 160.09253903990748,
+                "y": 128.62926547137076
+            }
+        }
+    },
+    "map.fixedSize": true,
+    "map.height": 4,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 5,
+    "openFiles": [
+        "C:/Users/sathp/Documents/it/PWS/code/assets/topdown.tsx",
+        "shop_bg.tmx"
+    ],
+    "project": "shop_bg.tiled-project",
+    "recentFiles": [
+        "C:/Users/sathp/Documents/it/PWS/code/assets/topdown.tsx",
+        "shop_bg.tmx"
+    ]
+}
